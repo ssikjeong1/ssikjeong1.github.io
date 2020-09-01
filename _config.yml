@@ -55,6 +55,8 @@ author:
 menu:
   - title:             Example
     url:               /example/
+  - title:             Projects
+    url:               /projects/
   - title:             Documentation
     url:               /docs/
   - title:             About
