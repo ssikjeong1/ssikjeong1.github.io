@@ -12,7 +12,7 @@ url: https://ssikjeong1.github.io
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl: '/ssikjeong1.github.io'
+baseurl: ''
 
 
 # General settings
@@ -52,16 +52,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Environments
-    url:               /environ/
-#  - title:             Research
-#    url:               /research/
-#  - title:             Think
-#    url:               /think/
-#  - title:             Example
-#    url:               /example/
-#  - title:             Documentation
-#    url:               /docs/
+  - title:             Example
+    url:               /example/
+  - title:             Documentation
+    url:               /docs/
   - title:             About
     url:               /about/
 
@@ -195,7 +189,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
- google_analytics:      UA-128487676-1
+# google_analytics:      UA-XXXXXXXX-X
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
