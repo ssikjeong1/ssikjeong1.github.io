@@ -32,7 +32,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline: Data Science and Deep Learning Model Development
+tagline: Data Science and \\Deep Learning Model Development
 
 # A list of keywords for your blog
 keywords:              []
@@ -47,6 +47,7 @@ author:
   # Used by `jekyll-feed`:
   name:                Wonsik Jung
   email:               ssikjeong1@korea.ac.kr
+  picture:            /assets/img/profile.jpg
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -193,7 +194,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <username>
+ disqus:                Jung
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
@@ -329,6 +330,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-avatar
 
 
 # SEO Tag
