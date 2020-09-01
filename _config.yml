@@ -192,7 +192,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
- google_analytics:      UA-128487676-1
+# google_analytics:      UA-128487676-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
@@ -358,11 +358,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
+ social:
+   name:                Wonsik Jung
+   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+     - https://github.com/ssikjeong1
 
 
 # Plugin Configs
