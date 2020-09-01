@@ -2,8 +2,6 @@
 # ========================================================================================
 
 # IMPORTANT: Set the URL of your site.
-# Set to https://<username>.github.io when hosting on GitHub Pages
-# (unless you are using a custom domain).
 url: https://ssikjeong1.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
@@ -28,8 +26,7 @@ title: Wonsik Jung
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  다양한 분야에 관심 많은 대학원생의 `기록저장소`{:style="background: rgba(255, 255, 255, 0.15); color: #fff"}
 
 # A shorter description for the sidebar.
 tagline: Data Science and Deep Learning Model Development
@@ -47,7 +44,8 @@ author:
   # Used by `jekyll-feed`:
   name:                Wonsik Jung
   email:               ssikjeong1@korea.ac.kr
-  picture:            /assets/img/profile.jpg
+  photo:            /assets/img/profile.png
+  photo2x:            /assets/img/profile.png
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
