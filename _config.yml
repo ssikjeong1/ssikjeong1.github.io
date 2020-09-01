@@ -32,7 +32,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline: Data Science and \ Deep Learning Model Development
+tagline: Data Science and Deep Learning Model Development
 
 # A list of keywords for your blog
 keywords:              []
@@ -196,7 +196,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
- disqus:                <username>
+ disqus:                Wonsik
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
