@@ -2,7 +2,8 @@
 layout: post
 title:  Ubuntu에서 Logitech 쉽게 유니파잉하기
 comments: true
-tags: [Ubuntu]
+categories: [environ, Ubuntu]
+tags: [environ, Ubuntu]
 sitemap :
   changefreq : daily
 ---

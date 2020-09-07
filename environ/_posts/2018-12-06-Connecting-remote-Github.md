@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Connecting remote Github 원격저장소 연결하기
-tags: [Github]
+categories: [environ, Github]
+tags: [environ, Github]
 sitemap :
   changefreq : daily
 ---
