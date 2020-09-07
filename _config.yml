@@ -55,6 +55,8 @@ menu:
     url:               /example/
   - title:             Projects
     url:               /projects/
+  - title:             Environments
+    url:               /environ/
   - title:             Documentation
     url:               /docs/
   - title:             About
